@@ -13,3 +13,4 @@
 ↓  
 Git といえば Git と Github が別物で紛らわしいのが Java と JavaScript みたい  
 ↓
+Java と JavaScript みたいといったら名前似てるけど全然別物
