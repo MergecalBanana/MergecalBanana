@@ -12,5 +12,9 @@
 初見ではどんな機能かわかりづらいと言ったら Git  
 ↓  
 Git といえば Git と Github が別物で紛らわしいのが Java と JavaScript みたい  
+↓  
+Java と JavaScript みたいといったら名前似てるけど全然別物  
+↓  
+名前似てるけど全然別物と言ったらそばと焼きそば  
+※ main に push する前に staging に push してくれるとありがたいです...!!(実務だといきなり main にバチコーン push せずに一旦 develop ブランチや staging ブランチに push して、問題なければ admin が main にマージみたいな流れっぽいので)  
 ↓
-Java と JavaScript みたいといったら名前似てるけど全然別物
